@@ -7,3 +7,5 @@
 # API:
 ## Thingspeak API receives the data and interprets into various forms: graphs, bar charts, working ON/ OFF etc.
 ## It is easy to access from anywhere globally.
+## Channel Name: sathya vani
+## Channel ID: 1315514
